@@ -1,16 +1,16 @@
 @font-face
 {
-    font-family:'haxrcorp';
-    src: url('haxrcorpttf.ttf');
+    font-family:'scientifica';
+    src: url('scientifica.ttf');
 }
 
 input {
-	font-family: haxrcorp, monospace;
+	font-family: scientifica, monospace;
 	font-size:15px;
 }
 
 body{
-	font-family: haxrcorp, monospace;
+	font-family: scientifica, monospace;
 	font-size:15px;
 	background-color:#F8F8F8;
 	background-image: url("img/bg_tile.png");
@@ -84,7 +84,7 @@ body{
 	margin-right:1px;
 	width:100%;
 	border:none;
-	font-family: haxrcorp, monospace;
+	font-family: scientifica, monospace;
 	font-size:15px;
 	padding-bottom: 0px;
 	padding-top:0px;
@@ -150,7 +150,7 @@ body{
 
 .time {
 	color:#000000;
-	font-family: haxrcorp, monospace;
+	font-family: scientifica, monospace;
 	font-size:16px;
 	position: absolute;
 	top: -18px;
@@ -161,7 +161,7 @@ body{
 
 .welcome {
 	line-height:30px;
-	font-family: haxrcorp, monospace;
+	font-family: scientifica, monospace;
 	font-size:22px;
 	position:absolute;
 	top:80px;
